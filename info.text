@@ -1,0 +1,7 @@
+## ng-http-loader (https://www.npmjs.com/package/ng-http-loader)
+- used npm package ng-http-loader for global spinner. 
+  note:- update version accordingly
+    ng-http-loader  angular/cli
+    >=9.0.0	        ^11.0.0
+    >=10.0.0	    ^12.0.0
+    >=11.0.0	    ^13.0.0
